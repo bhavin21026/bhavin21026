@@ -1,10 +1,17 @@
 ### Hi there 👋 I'm Bhavin Sangani 
 
+
+
 - 🔭 I’m currently working on **Selenium, Jmeter, Appium, API Automation**
+  
 - 🌱 I’m currently exploring **new automation techniques to give better quality**
+  
 - 👯 I’m looking to collaborate on **Selenium, Jmeter, API Automation**
+  
 - 💬 Ask me about **Automation Framework Creation, Agile Testing Process, Selenium, API Automation**
+  
 - 📫 You can reach me at **bhavinqa26@gmail.com**
+  
 - ⚡ Fun fact: **I love Pizza** 😄 
 
 <!--
